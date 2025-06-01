@@ -9,8 +9,7 @@ X-DSPAM-Confidence:    0.8475
 '''
 
 
-# Use the file name mbox-short.txt as the file name
-f# Запитуємо ім'я файлу
+# Запитуємо ім'я файлу
 fname = input("Enter file name: ")
 
 try:
