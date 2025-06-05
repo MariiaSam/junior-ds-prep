@@ -72,3 +72,10 @@ d = float(text[c:])
 print(d)
 print(type(d))
 
+
+# ++++++++++++++++++++==
+
+a = {'b': 1, 'c': 2, 'd': 3}
+
+new_dict = a.get('b', 0) + 1
+print(new_dict)
