@@ -11,4 +11,7 @@ try:
     fn = open(fname)
 except:
     print('File can not be opened', fname)
-    quit()
+    quit() 
+
+
+    
